@@ -1,7 +1,7 @@
 #### bem vindo
 
 - 🌱 Atualmente aprendendo: **Python**
-- 🧐 Interesse em: **R**, **Python** voltado para dados
+- 🧐 Interesse em: **R** e **Python** voltado para dados
 
 
  ##
